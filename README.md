@@ -18,9 +18,5 @@ To get started with "Machine Learning from Scratch", clone this repository and i
 ```
 git clone https://github.com/yourusername/machine_learning_from_scratch_python.git
 cd machine_learning_from_scratch_python
-pip install -r requirements.txt```
-
-# Contact
-Your Name - @yourtwitter
-
-Project Link: https://github.com/yourusername/machine_learning_from_scratch_python
+pip install -r requirements.txt
+```
