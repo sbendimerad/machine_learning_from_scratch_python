@@ -14,10 +14,8 @@ Machine learning is a cornerstone of modern technology, powering everything from
 
 ## Getting Started
 
-To get started with "Machine Learning from Scratch", clone this repository and install the required Python packages:
+To get started with "Machine Learning from Scratch", clone this repository and open the notebooks :
 
 ```
 git clone https://github.com/yourusername/machine_learning_from_scratch_python.git
-cd machine_learning_from_scratch_python
-pip install -r requirements.txt
 ```
