@@ -8,7 +8,8 @@ Machine learning is a cornerstone of modern technology, powering everything from
 
 ## What's Inside
 
-- **Ensemble Methods**: See how combining the predictions of multiple models can improve accuracy.
+- **Ensemble Methods (AdaBoost)**: See how combining the predictions of multiple models can improve accuracy.
+- **Kmeans** : See how kmeans clustering works.
 - **And more...**: Coming soon.
 
 ## Getting Started
